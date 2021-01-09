@@ -1,7 +1,7 @@
+// Codeforces problem - 50A
 import java.util.Scanner;
-
-public class program {
-
+class test {
+// BY maisha_maliha_
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         short m = inp.nextShort();
@@ -18,3 +18,5 @@ public class program {
         inp.close();
     }
 }
+class a{}
+class b{}

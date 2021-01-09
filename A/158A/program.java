@@ -1,7 +1,8 @@
+// Codeforces problem - 158A
 import java.util.Scanner;
 
 public class program {
-
+// BY maisha_maliha_
     public static void main(String[] args) {
         Scanner inpu = new Scanner(System.in);
         byte n = inpu.nextByte();
@@ -49,7 +50,6 @@ public class program {
                     System.out.print('0');
                 }
             }
-
         }
         inpu.close();
     }

@@ -1,5 +1,8 @@
+// Codeforces problem - 236A
 import java.util.Scanner;
+
 public class set{
+// BY maisha_maliha_
     public static void main(String args[]) {
         Scanner inp = new Scanner(System.in);
         String str = inp.nextLine();

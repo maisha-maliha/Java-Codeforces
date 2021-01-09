@@ -1,7 +1,8 @@
+// Codeforces problem - 979A
 import java.util.Scanner;
 
 public class program {
-
+// BY maisha_maliha_
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         long n = inp.nextLong();
